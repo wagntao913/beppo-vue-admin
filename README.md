@@ -1,5 +1,4 @@
 ## 依赖安装与使用
-#### git@github.com:wagntao913/beppo-vue-admin.git
 #### vue-router
 
 ```bash
